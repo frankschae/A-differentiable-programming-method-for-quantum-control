@@ -80,7 +80,7 @@ The repository contains three environments:
 
 - [ ] .. does *not* contain the hyperparameter optimization code (based on BOHB) for simplicity. Please contact us directly if you are interested in code relevant for BOHB.
 - [x] .. contains the REINFORCE method applied to the single qubit.
-- [x] .. also contains an animation of the optimized pulse sequences for the cat-state preparation (see [animation](../misc/movie_cats.gif)).
+- [x] .. also contains an animation of the optimized pulse sequences for the cat-state preparation (see [animation](./misc/movie_cats.gif)).
 
 ## Authors:
 
