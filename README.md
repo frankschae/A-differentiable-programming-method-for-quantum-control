@@ -94,7 +94,7 @@ If you use this code or are influenced by its ideas, please cite:
 @article{schaefer_DP_2020,
   title={A differentiable programming method for quantum control},
   author={Frank Sch\"{a}fer, Michal Kloc, Christoph Bruder, and Niels L\"{o}rch },
-  journal={arXiv preprint arXiv:2002.XXXXX},
+  journal={arXiv preprint arXiv:2002.08376},
   year={2020}
 }
 ```
